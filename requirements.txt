@@ -1,0 +1,13 @@
+streamlit
+google-genai
+torch
+pytorch-forecasting
+transformers
+yfinance
+finnhub-python
+pandas
+numpy
+fastmcp
+python-dotenv
+fastapi
+uvicorn
